@@ -2,6 +2,7 @@
 
 ## Introduction
 A comprehensive tool built with Python, utilizing Streamlit for an interactive web interface, designed to analyze WhatsApp chat histories. It provides insights into chat patterns, message statistics, media and link sharing, emoji usage, and more through advanced data processing and visualization techniques.
+deply app link-https://dashboard.render.com/web/srv-cq8f4k6ehbks738inipg
 
 ## Features
 - **Message Statistics**: Overview of total messages, words, media, and links.
